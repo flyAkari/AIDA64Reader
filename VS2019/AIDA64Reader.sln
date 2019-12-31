@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIDA64Reader", "AIDA64Reader\AIDA64Reader.csproj", "{EF01AF22-F4A5-4887-8EE5-8E6FE43031F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF01AF22-F4A5-4887-8EE5-8E6FE43031F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF01AF22-F4A5-4887-8EE5-8E6FE43031F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF01AF22-F4A5-4887-8EE5-8E6FE43031F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF01AF22-F4A5-4887-8EE5-8E6FE43031F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F441BD6C-0A78-4E71-9352-E5E93DBD8B33}
+	EndGlobalSection
+EndGlobal

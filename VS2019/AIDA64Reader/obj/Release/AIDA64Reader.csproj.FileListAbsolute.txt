@@ -1,0 +1,5 @@
+D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.exe.config
+D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.exe
+D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\bin\Release\AIDA64Reader.pdb
+D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.exe
+D:\Code\Github\AIDA64Reader\VS2019\AIDA64Reader\obj\Release\AIDA64Reader.pdb

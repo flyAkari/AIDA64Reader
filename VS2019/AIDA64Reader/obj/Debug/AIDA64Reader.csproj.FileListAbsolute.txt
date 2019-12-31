@@ -1,0 +1,6 @@
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\bin\Debug\AIDA64Reader.exe.config
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\bin\Debug\AIDA64Reader.exe
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\bin\Debug\AIDA64Reader.pdb
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\obj\Debug\AIDA64Reader.csprojAssemblyReference.cache
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\obj\Debug\AIDA64Reader.exe
+C:\Users\Akari\source\repos\AIDA64Reader\AIDA64Reader\obj\Debug\AIDA64Reader.pdb
