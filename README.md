@@ -5,5 +5,3 @@
 使用前需开启AIDA64允许内存共享功能  
 Arduino依赖库：  
 https://github.com/olikraus/u8g2  
-
-演示视频中的带GUI的上位机程序及下位机固件将在下期视频更新时放出，预计在1月10日左右，目前仍在修改bug。
