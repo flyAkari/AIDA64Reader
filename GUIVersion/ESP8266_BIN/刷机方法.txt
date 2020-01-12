@@ -1,0 +1,22 @@
+刷机教程
+https://www.bilibili.com/video/av82863964
+
+注：一般来说，0.96寸OLED屏刷SSD1306的包，1.3寸OLED屏刷SH1106的包
+
+连线方法
+7pin SPI引脚，正面看，从左到右依次为GND、VCC、D0、D1、RES、DC、CS
+   ESP8266 ---  OLED
+     3V    ---  VCC
+     G     ---  GND
+     D7    ---  D1
+     D5    ---  D0
+     D2orD8---  CS
+     D1    ---  DC
+     RST   ---  RES
+4pin IIC引脚，正面看，从左到右依次为GND、VCC、SCL、SDA
+     OLED  ---  ESP8266
+     VCC   ---  3.3V
+     GND   ---  G (GND)
+     SCL   ---  D1(GPIO5)
+     SDA   ---  D2(GPIO4)
+*/
