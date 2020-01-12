@@ -2,6 +2,7 @@
 https://www.bilibili.com/video/av82863964
 
 注：一般来说，0.96寸OLED屏刷SSD1306的包，1.3寸OLED屏刷SH1106的包
+波特率到不了1500000的电脑可以刷115200的固件。
 
 连线方法
 7pin SPI引脚，正面看，从左到右依次为GND、VCC、D0、D1、RES、DC、CS
